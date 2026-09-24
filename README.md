@@ -33,7 +33,7 @@
 <!-- Quick Portfolio Access Pill -->
 <p align="center">
   <a href="https://baadaldev.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-baadaldev.github.io-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-baadaldev.github.io-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Live Portfolio" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=baadaldev&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Learning_%26_Building-111111?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-111111?style=flat-square&logo=githubactions&logoColor=22C55E" alt="Status" />
   &nbsp;
   <img src="https://img.shields.io/badge/Degree-B.Sc._CSE-DC2626?style=flat-square" alt="Degree" />
   &nbsp;
@@ -81,7 +81,7 @@
   <tr>
     <td width="50%" align="center" style="padding: 14px;">
       <h4>🔭 Flagship Project</h4>
-      <p><a href="https://github.com/baadaldev" target="_blank"><b>Smart Meal Management System</b></a><br /><sub>Daily meal calculation, balance & expense tracking</sub></p>
+      <p><a href="https://baadaldev.github.io/To-Do-App-For-Me/" target="_blank"><b>Discipline Tracker (Live Web & App)</b></a><br /><sub>Flutter • GitHub Heatmap • AI Coach • Offline-First</sub></p>
     </td>
     <td width="50%" align="center" style="padding: 14px;">
       <h4>🌱 Active Deep Dives</h4>
@@ -130,11 +130,11 @@
       <br />
       <p align="center">
         <a href="https://baadaldev.github.io" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_Launch_Portfolio_Website-baadaldev.github.io-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Launch Live Site" />
+          <img src="https://img.shields.io/badge/Launch_Portfolio_Website-baadaldev.github.io-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Launch Live Site" />
         </a>
         &nbsp;&nbsp;
         <a href="https://github.com/baadaldev/baadaldev.github.io" target="_blank">
-          <img src="https://img.shields.io/badge/💻_Portfolio_Repository-View_Code-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+          <img src="https://img.shields.io/badge/Portfolio_Repository-View_Code-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
         </a>
       </p>
     </td>
@@ -176,7 +176,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://img.shields.io/badge/⬇-Evolution-111111?style=flat-square" alt="down" />
+      <img src="https://img.shields.io/badge/Next-Evolution-111111?style=flat-square" alt="down" />
     </td>
   </tr>
   <tr>
@@ -194,7 +194,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://img.shields.io/badge/⬇-Academic_Step-111111?style=flat-square" alt="down" />
+      <img src="https://img.shields.io/badge/Next-Academic_Step-111111?style=flat-square" alt="down" />
     </td>
   </tr>
   <tr>
@@ -214,7 +214,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://img.shields.io/badge/⬇-Problem_Solving-111111?style=flat-square" alt="down" />
+      <img src="https://img.shields.io/badge/Next-Problem_Solving-111111?style=flat-square" alt="down" />
     </td>
   </tr>
   <tr>
@@ -233,7 +233,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://img.shields.io/badge/⬇-Practical_Engineering-111111?style=flat-square" alt="down" />
+      <img src="https://img.shields.io/badge/Next-Practical_Engineering-111111?style=flat-square" alt="down" />
     </td>
   </tr>
   <tr>
@@ -252,7 +252,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://img.shields.io/badge/⬇-The_Horizon-111111?style=flat-square" alt="down" />
+      <img src="https://img.shields.io/badge/Next-The_Horizon-111111?style=flat-square" alt="down" />
     </td>
   </tr>
   <tr>
@@ -335,26 +335,88 @@
 
 <h2 align="center">🔴 Featured Projects Spotlight</h2>
 
+<!-- PINNED FLAGSHIP PROJECT: DISCIPLINE TRACKER -->
 <table width="100%" border="0" align="center">
   <tr>
-    <td align="center" style="padding: 22px;">
-      <h3>🍽️ Smart Meal Management System</h3>
-      <p><i>A comprehensive web and software management solution designed to streamline daily meal counting, member accounts, expense calculations, and transparent monthly budgeting.</i></p>
-      <br />
-      <h3>🎓 Student Management System</h3>
-      <p><i>A structured academic management application developed to organize student records, course information, enrollment details, and academic data operations seamlessly.</i></p>
-      <br />
-      <h3>🧩 Data Structures &amp; Algorithms Practice Repository</h3>
-      <p><i>A dedicated repository archiving solutions to algorithmic challenges, standard data structures implementations, and problem-solving milestones in C++ and JavaScript.</i></p>
-      <br />
-      <p>
-        <a href="https://github.com/baadaldev?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    <td style="padding: 20px; background: rgba(220, 38, 38, 0.04); border: 1.5px solid rgba(239, 68, 68, 0.4); border-radius: 14px;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/📌_PINNED_FLAGSHIP_PROJECT-Discipline_Tracker-DC2626?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="Pinned Project" />
+      </div>
+      <h3 align="center">🎯 Discipline Tracker — Production Mobile &amp; Web Platform</h3>
+      <p align="center">
+        <i>A production-ready habit building, streak defense, and productivity platform built with <b>Clean Architecture</b>, <b>Riverpod</b>, and an <b>Offline-First</b> engine. Features an interactive GitHub contribution heatmap, intelligent AI coach, and gamified achievements.</i>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter_3.x-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+        <img src="https://img.shields.io/badge/Firebase_Auth_%26_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Hive-Offline--First_Cache-FFA000?style=flat-square&logo=hive&logoColor=white" alt="Hive" />
+        <img src="https://img.shields.io/badge/Riverpod-State_Management-00599C?style=flat-square" alt="Riverpod" />
+        <img src="https://img.shields.io/badge/Architecture-Clean_Architecture-10B981?style=flat-square" alt="Clean Architecture" />
+      </p>
+      <ul>
+        <li>🟩 <b>GitHub-Style Contribution Heatmap:</b> 5-tier intensity color mapping, annual &amp; monthly views, and interactive tap-to-inspect task drilldowns.</li>
+        <li>🤖 <b>AI Behavioral Coach:</b> Analyzes execution bottlenecks, category adherence, and identifies golden focus windows.</li>
+        <li>🔥 <b>Streak Protection &amp; Shields:</b> Dynamic streak multipliers and freeze tokens to preserve consistency against unexpected days off.</li>
+        <li>🎮 <b>Gamification Engine:</b> Level progression, tiered XP rules, and badges (<i>Centurion</i>, <i>Habit Master</i>, <i>Discipline Master</i>).</li>
+        <li>📝 <b>Daily Reflection &amp; PDF Exporter:</b> Evening debrief journal (+50 XP) and downloadable printable progress reports.</li>
+      </ul>
+      <p align="center">
+        <a href="https://baadaldev.github.io/To-Do-App-For-Me/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Live_Demo_Website-Visit_App-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/baadaldev/To-Do-App-For-Me" target="_blank">
+          <img src="https://img.shields.io/badge/💻_Repository_%26_Architecture-View_Source-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Repository" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
+<br />
+
+<!-- PINNED PROJECT 2 & 3: GRID -->
+<table width="100%" border="0" align="center">
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px; background: rgba(220, 38, 38, 0.02); border: 1px solid rgba(239, 68, 68, 0.2); border-radius: 12px;">
+      <h4>🗺️ DIU Campus Navigator — 3D Shortest Path Routing</h4>
+      <p><i>An interactive 3D and 2D university navigation platform powered by <b>Dijkstra's Algorithm</b> and <b>Three.js</b> to calculate the optimal shortest path between campus buildings and academic facilities.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Three.js-3D_Graphics-black?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/Algorithm-Dijkstra_Graph-DC2626?style=flat-square" alt="Dijkstra" />
+      </p>
+      <p>
+        <a href="https://github.com/baadaldev" target="_blank">
+          <img src="https://img.shields.io/badge/💻_Source_Code-View_Project-111111?style=flat-square&logo=github&logoColor=EF4444" alt="View Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 16px; background: rgba(220, 38, 38, 0.02); border: 1px solid rgba(239, 68, 68, 0.2); border-radius: 12px;">
+      <h4>🍽️ Smart Meal Management System</h4>
+      <p><i>A full-featured software solution automating daily meal counting, member accounting, transparent expense distribution, and monthly mess budget calculations.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Full_Stack-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Frontend-Responsive_UI-DC2626?style=flat-square" alt="UI" />
+      </p>
+      <p>
+        <a href="https://github.com/baadaldev" target="_blank">
+          <img src="https://img.shields.io/badge/💻_Source_Code-View_Project-111111?style=flat-square&logo=github&logoColor=EF4444" alt="View Project" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/baadaldev?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_Explore_All_Repositories-View_on_GitHub-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="All Repos" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Animated Divider" />
@@ -397,7 +459,14 @@
 <p align="center"><b>Core Programming Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css&theme=dark" width="100%" style="max-width: 320px;" alt="Core Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,dart,js,html,css&theme=dark" width="100%" style="max-width: 360px;" alt="Core Languages" />
+  </a>
+</p>
+
+<p align="center"><b>Mobile &amp; Cross-Platform Development</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" width="100%" style="max-width: 140px;" alt="Mobile App Development" />
   </a>
 </p>
 
@@ -408,28 +477,32 @@
   </a>
 </p>
 
-<p align="center"><b>Database &amp; Backend (Currently Learning)</b></p>
+<p align="center"><b>Database, Cloud &amp; Backend</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="100%" style="max-width: 80px;" alt="Database Skills" />
+    <img src="https://skillicons.dev/icons?i=firebase,mysql&theme=dark" width="100%" style="max-width: 140px;" alt="Database and Cloud Services" />
   </a>
 </p>
 
 <p align="center"><b>Tools &amp; Development Environment</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" width="100%" style="max-width: 200px;" alt="Tools and Technologies" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" width="100%" style="max-width: 260px;" alt="Tools and Technologies" />
   </a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Flutter_Development-0a0a0a?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter Development" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Dart-0a0a0a?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Firebase_Cloud-0a0a0a?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase Cloud" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=EF4444" alt="Data Structures and Algorithms" />
   &nbsp;
   <img src="https://img.shields.io/badge/Problem_Solving-0a0a0a?style=for-the-badge&logo=leetcode&logoColor=EF4444" alt="Problem Solving" />
   &nbsp;
   <img src="https://img.shields.io/badge/Responsive_Web_Design-0a0a0a?style=for-the-badge&logo=css3&logoColor=EF4444" alt="Responsive Web Design" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Data_Analytics-0a0a0a?style=for-the-badge&logo=googleanalytics&logoColor=EF4444" alt="Data Analytics" />
 </p>
 
 <p align="center">

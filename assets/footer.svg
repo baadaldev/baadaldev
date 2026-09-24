@@ -16,8 +16,10 @@
     </filter>
   </defs>
 
+  <!-- Glowing Neon Divider Line -->
   <line x1="50" y1="20" x2="850" y2="20" stroke="url(#footer-grad)" stroke-width="2" filter="url(#f-glow)" />
 
+  <!-- Center Diamond & Tech Mark -->
   <polygon points="450,15 456,20 450,25 444,20" fill="#ff2a45" filter="url(#f-glow)" />
   <circle cx="430" cy="20" r="2" fill="#ef4444" />
   <circle cx="470" cy="20" r="2" fill="#ef4444" />
