@@ -1,168 +1,269 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" width="100%" height="270">
-  <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#070709" />
-      <stop offset="50%" stop-color="#0f0709" />
-      <stop offset="100%" stop-color="#050507" />
-    </linearGradient>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Md Rakibul Islam (Baadal) Header" />
+</p>
 
-    <!-- Red Neon Gradient for Text -->
-    <linearGradient id="red-glow-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff4458" />
-      <stop offset="40%" stop-color="#ff1a35" />
-      <stop offset="70%" stop-color="#ffffff" />
-      <stop offset="100%" stop-color="#ff2a45" />
-      <animate attributeName="x1" from="-100%" to="100%" dur="7s" repeatCount="indefinite" />
-      <animate attributeName="x2" from="0%" to="200%" dur="7s" repeatCount="indefinite" />
-    </linearGradient>
+<p align="center">
+  <a href="https://github.com/baadaldev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi%20there!%20I'm%20Md%20Rakibul%20Islam%20(Baadal)%20%F0%9F%91%8B;%F0%9F%92%BB%20CSE%20Student%20at%20DIU%20%F0%9F%8E%93;%F0%9F%9A%80%20Aspiring%20Full%20Stack%20Developer%20%26%20AI%2FML%20Engineer;%F0%9F%93%9A%20Learning%20DSA%20%26%20Web%20Development;%E2%9A%A1%20Joined%20GitHub%3A%20November%2017%2C%202022" width="100%" style="max-width: 650px;" alt="Typing SVG" />
+  </a>
+</p>
 
-    <!-- Border Glow Gradient -->
-    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7f1d1d" />
-      <stop offset="30%" stop-color="#ef4444" />
-      <stop offset="50%" stop-color="#ff4d6d" />
-      <stop offset="70%" stop-color="#ef4444" />
-      <stop offset="100%" stop-color="#7f1d1d" />
-    </linearGradient>
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined%20GitHub-Nov%2017%2C%202022-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Joined GitHub: November 17, 2022" />
+  &nbsp;
+  <a href="https://baadaldev.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-baadaldev.github.io-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Live Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/md-rakibul-islam-a2b136408" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Baadal89131/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="mailto:badolrakib1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=baadaldev&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+</p>
 
-    <!-- Capsule Border Glow Gradient -->
-    <linearGradient id="capsule-border" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ef4444" />
-      <stop offset="50%" stop-color="#ff4d6d" />
-      <stop offset="100%" stop-color="#ef4444" />
-    </linearGradient>
+<br />
 
-    <!-- Filters for Neon Glow -->
-    <filter id="glow-red" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
+<!-- =================================================== -->
+<!--                      ABOUT ME                       -->
+<!-- =================================================== -->
 
-    <filter id="ambient-blur">
-      <feGaussianBlur stdDeviation="40" />
-    </filter>
+## 🧑‍💻 About Me
 
-    <!-- Grid Pattern -->
-    <pattern id="tech-grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ef4444" stroke-width="0.75" stroke-opacity="0.08" />
-    </pattern>
-  </defs>
+I am a passionate **Computer Science & Engineering student** at **Daffodil International University (DIU)**, dedicated to building scalable web applications and mastering algorithmic problem solving. I bridge low-level algorithmic foundations in **C++** with modern full-stack development in **React, Next.js, and Node.js**.
 
-  <style>
-    .title-text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      font-weight: 900;
-      font-size: 38px;
-      letter-spacing: 3px;
-      text-transform: uppercase;
-    }
-    .subtitle-primary {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      font-weight: 700;
-      font-size: 14.5px;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-    }
-    .subtitle-secondary {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      font-weight: 600;
-      font-size: 13px;
-      letter-spacing: 1.8px;
-      text-transform: uppercase;
-      fill: #cbd5e1;
-    }
-    .badge-text {
-      font-family: "SF Pro Text", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      font-weight: 700;
-      font-size: 11.5px;
-      letter-spacing: 1.5px;
-      text-transform: uppercase;
-      fill: #ff4d6d;
-    }
-    .joined-text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-    }
-    .pulse-dot {
-      animation: pulse 2s infinite ease-in-out;
-    }
-    @keyframes pulse {
-      0% { opacity: 0.4; r: 4px; }
-      50% { opacity: 1; r: 6px; }
-      100% { opacity: 0.4; r: 4px; }
-    }
-  </style>
+- 🎓 **Academics:** B.Sc. in Computer Science & Engineering at Daffodil International University (4th Semester)
+- 🚀 **Focus:** Aspiring Full Stack Developer & AI/ML Engineer
+- 📚 **Continuous Learning:** Data Structures, Algorithms (DSA) & Modern Web Development
+- 📅 **GitHub Member:** Building and contributing since **November 17, 2022**
+- 💻 **Core Specialties:** Full Stack Web Development, C++20, Data Structures & Algorithms, Systems Architecture
+- 🎯 **Career Objective:** Seeking **Software Engineering & Web Development Internships** to build impactful, production-grade systems
+- 💬 **Ask Me About:** C++, JavaScript / TypeScript, React, Next.js, Algorithm Optimization & Clean Code
 
-  <!-- Background Rect -->
-  <rect width="900" height="270" rx="14" fill="url(#bg-grad)" />
+<br />
 
-  <!-- Ambient Red Glows -->
-  <circle cx="150" cy="80" r="100" fill="#dc2626" opacity="0.18" filter="url(#ambient-blur)" />
-  <circle cx="750" cy="180" r="120" fill="#ff1a35" opacity="0.14" filter="url(#ambient-blur)" />
+<!-- =================================================== -->
+<!--                 FEATURED PROJECTS                   -->
+<!-- =================================================== -->
 
-  <!-- Subtle Tech Grid -->
-  <rect width="900" height="270" rx="14" fill="url(#tech-grid)" />
+## 🚀 Featured Projects
 
-  <!-- Border Outline -->
-  <rect x="1.5" y="1.5" width="897" height="267" rx="13" fill="none" stroke="url(#border-grad)" stroke-width="1.5" stroke-opacity="0.65" />
+<table width="100%" border="0" align="center">
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px; background: rgba(220, 38, 38, 0.04); border: 1px solid rgba(239, 68, 68, 0.3); border-radius: 12px;">
+      <h3 style="margin-top: 0;">⚔️ CP Mastery Hub</h3>
+      <p><i>An All-in-One Competitive Programming &amp; DSA suite featuring a 20-chapter roadmap, 60fps algorithm visualizer, in-browser code runner, live contest radar, and 1-click GitHub push.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
+        <img src="https://img.shields.io/badge/Canvas_60fps-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas" />
+        <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++20" />
+      </p>
+      <p>
+        <a href="https://baadaldev.github.io/cp-mastery-hub/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/baadaldev/cp-mastery-hub" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 16px; background: rgba(220, 38, 38, 0.04); border: 1px solid rgba(239, 68, 68, 0.3); border-radius: 12px;">
+      <h3 style="margin-top: 0;">🎯 Discipline Tracker (DevTrack PRO)</h3>
+      <p><i>A habit defense and productivity platform built with Clean Architecture, featuring an OS-level Picture-in-Picture floating timer, interactive GitHub-style heatmap, and AI coach.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Offline--First-10B981?style=flat-square" alt="Offline-First" />
+      </p>
+      <p>
+        <a href="https://baadaldev.github.io/To-Do-App-For-Me/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/baadaldev/To-Do-App-For-Me" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 16px; background: rgba(220, 38, 38, 0.04); border: 1px solid rgba(239, 68, 68, 0.3); border-radius: 12px;">
+      <h3 style="margin-top: 0;">📈 NEXUS Future Simulator</h3>
+      <p><i>Mathematical life simulation engine modeling 5-to-10-year skill mastery, career trajectory, and stochastic compounding outcomes based on daily deliberate effort variance.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
+        <img src="https://img.shields.io/badge/Stochastic_Math-DC2626?style=flat-square" alt="Stochastic Models" />
+      </p>
+      <p>
+        <a href="https://github.com/baadaldev/-NEXUS-Personal-Future-Simulator" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 16px; background: rgba(220, 38, 38, 0.04); border: 1px solid rgba(239, 68, 68, 0.3); border-radius: 12px;">
+      <h3 style="margin-top: 0;">🗺️ DIU Campus Navigator</h3>
+      <p><i>An interactive campus routing engine using Dijkstra's algorithm and Three.js 3D rendering to compute optimal navigation routes between university buildings and facilities.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/Algorithms-Dijkstra-DC2626?style=flat-square" alt="Dijkstra" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+      </p>
+      <p>
+        <a href="https://github.com/baadaldev/Diu-Campus-Navigator" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  <!-- Cybernetic Corner Accents -->
-  <path d="M 12 30 L 12 14 L 30 14" stroke="#ff2a45" stroke-width="3" fill="none" stroke-linecap="round" />
-  <path d="M 888 30 L 888 14 L 870 14" stroke="#ff2a45" stroke-width="3" fill="none" stroke-linecap="round" />
-  <path d="M 12 240 L 12 256 L 30 256" stroke="#ff2a45" stroke-width="3" fill="none" stroke-linecap="round" />
-  <path d="M 888 240 L 888 256 L 870 256" stroke="#ff2a45" stroke-width="3" fill="none" stroke-linecap="round" />
+<p align="center">
+  <a href="https://github.com/baadaldev?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_Explore_All_Repositories-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Explore All Repositories" />
+  </a>
+</p>
 
-  <!-- Status Pill Badge at Top Center (Bio Item 1: CSE Student at DIU) -->
-  <g transform="translate(285, 20)">
-    <rect width="330" height="26" rx="13" fill="#17090b" stroke="#ff2a45" stroke-width="1" stroke-opacity="0.7" />
-    <circle cx="18" cy="13" r="5" fill="#ef4444" class="pulse-dot" />
-    <text x="175" y="17.5" text-anchor="middle" class="badge-text">💻 CSE STUDENT AT DIU</text>
-  </g>
+<br />
 
-  <!-- Main Name Header -->
-  <text x="450" y="94" text-anchor="middle" class="title-text" fill="url(#red-glow-grad)" filter="url(#glow-red)">
-    MD RAKIBUL ISLAM (BAADAL)
-  </text>
-  <text x="450" y="94" text-anchor="middle" class="title-text" fill="#ffffff" fill-opacity="0.95">
-    MD RAKIBUL ISLAM (BAADAL)
-  </text>
+<!-- =================================================== -->
+<!--                 TECH STACK & TOOLS                  -->
+<!-- =================================================== -->
 
-  <!-- Subtitle Tagline (Bio Item 2: Aspiring Full Stack Developer & AI/ML Engineer) -->
-  <text x="450" y="130" text-anchor="middle" class="subtitle-primary">
-    <tspan fill="#ff4d6d">🚀 ASPIRING FULL STACK DEVELOPER</tspan>
-    <tspan fill="#64748b"> &amp; </tspan>
-    <tspan fill="#f1f5f9">AI/ML ENGINEER</tspan>
-  </text>
+## 🛠️ Tech Stack & Skills
 
-  <!-- Subtitle Line 2 (Bio Item 3: Learning DSA & Web Development) -->
-  <text x="450" y="156" text-anchor="middle" class="subtitle-secondary">
-    <tspan fill="#ef4444">📚</tspan> LEARNING DSA &amp; WEB DEVELOPMENT
-  </text>
+<table width="100%" border="0">
+  <tr>
+    <td width="30%"><b>Languages</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,html,css&theme=dark" alt="Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Frontend & UI</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Backend & Databases</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase&theme=dark" alt="Backend & DB" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Developer Tools & OS</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" alt="Dev Tools" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- Decorative Sleek Red Line with Diamond -->
-  <g transform="translate(0, 178)">
-    <line x1="200" y1="0" x2="420" y2="0" stroke="url(#border-grad)" stroke-width="1.5" stroke-opacity="0.8" />
-    <polygon points="450,-5 455,0 450,5 445,0" fill="#ef4444" filter="url(#glow-red)" />
-    <line x1="480" y1="0" x2="700" y2="0" stroke="url(#border-grad)" stroke-width="1.5" stroke-opacity="0.8" />
-  </g>
+<br />
 
-  <!-- Prominent GitHub Join Date Capsule (Large & Beautiful) -->
-  <g transform="translate(225, 198)">
-    <rect width="450" height="46" rx="23" fill="#14070a" stroke="url(#capsule-border)" stroke-width="1.5" stroke-opacity="0.95" />
-    <!-- Glowing Octocat Icon -->
-    <g transform="translate(24, 11) scale(0.95)">
-      <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z" fill="#ef4444" />
-    </g>
-    <!-- Join Text -->
-    <text x="238" y="29.5" text-anchor="middle" class="joined-text">
-      <tspan fill="#ff4d6d" font-weight="700" font-size="14.5px">JOINED GITHUB &nbsp;&#8226;&nbsp; </tspan>
-      <tspan fill="#ffffff" font-weight="900" font-size="16.5px" letter-spacing="2.5px">NOVEMBER 17, 2022</tspan>
-    </text>
-  </g>
-</svg>
+<!-- =================================================== -->
+<!--            PROBLEM SOLVING & LEETCODE               -->
+<!-- =================================================== -->
+
+## 🧩 Problem Solving & Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/u/Baadal89131/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Baadal89131?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 460px;" alt="LeetCode Live Stats Card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Baadal89131/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Baadal89131-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/baadaldev/NeetCode-150-C-Cpp" target="_blank">
+    <img src="https://img.shields.io/badge/NeetCode_150-C_%26_C++_Solutions-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0a0a0a" alt="NeetCode 150 Archive" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://baadaldev.github.io/cp-mastery-hub/" target="_blank">
+    <img src="https://img.shields.io/badge/CP_Mastery_Hub-Live_Suite-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="CP Mastery Hub" />
+  </a>
+</p>
+
+<br />
+
+<!-- =================================================== -->
+<!--              GITHUB ANALYTICS & ACTIVITY            -->
+<!-- =================================================== -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=baadaldev&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=baadaldev&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baadaldev&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph-two.vercel.app/graph?username=baadaldev&bg_color=0a0a0a&color=ef4444&line=ef4444&point=ffffff&area=true&hide_border=false&border_color=ef4444&radius=8" width="100%" style="max-width: 820px;" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</p>
+
+<br />
+
+<!-- =================================================== -->
+<!--              CONNECT & COLLABORATE                  -->
+<!-- =================================================== -->
+
+## 📬 Let's Connect
+
+<p align="center">
+  <i>Open for collaborations on software projects, developer tools, and internship opportunities.</i>
+</p>
+
+<p align="center">
+  <a href="https://baadaldev.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-baadaldev.github.io-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/md-rakibul-islam-a2b136408" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Baadal89131/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="mailto:badolrakib1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-badolrakib1@gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/baa.dal.424025" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-DC2626?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a0a0a" alt="Facebook" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
+</p>
