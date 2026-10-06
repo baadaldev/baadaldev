@@ -109,11 +109,11 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
         <img src="https://img.shields.io/badge/Stochastic_Math-DC2626?style=flat-square" alt="Stochastic Models" />
       </p>
       <p>
-        <a href="https://baadaldev.github.io/-NEXUS-Personal-Future-Simulator/" target="_blank">
+        <a href="https://baadaldev.github.io/Nexus-Personal-Future-Simulator/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
         </a>
         &nbsp;
-        <a href="https://github.com/baadaldev/-NEXUS-Personal-Future-Simulator" target="_blank">
+        <a href="https://github.com/baadaldev/Nexus-Personal-Future-Simulator" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="Source Code" />
         </a>
       </p>
