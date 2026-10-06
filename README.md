@@ -89,11 +89,11 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
         <img src="https://img.shields.io/badge/Offline--First-10B981?style=flat-square" alt="Offline-First" />
       </p>
       <p>
-        <a href="https://baadaldev.github.io/To-Do-App-For-Me/" target="_blank">
+        <a href="https://baadaldev.github.io/discipline-tracker/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
         </a>
         &nbsp;
-        <a href="https://github.com/baadaldev/To-Do-App-For-Me" target="_blank">
+        <a href="https://github.com/baadaldev/discipline-tracker" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="Source Code" />
         </a>
       </p>
@@ -109,11 +109,11 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
         <img src="https://img.shields.io/badge/Stochastic_Math-DC2626?style=flat-square" alt="Stochastic Models" />
       </p>
       <p>
-        <a href="https://baadaldev.github.io/Nexus-Personal-Future-Simulator/" target="_blank">
+        <a href="https://baadaldev.github.io/nexus-future-simulator/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
         </a>
         &nbsp;
-        <a href="https://github.com/baadaldev/Nexus-Personal-Future-Simulator" target="_blank">
+        <a href="https://github.com/baadaldev/nexus-future-simulator" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="Source Code" />
         </a>
       </p>
@@ -127,11 +127,11 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
       </p>
       <p>
-        <a href="https://baadaldev.github.io/Diu-Campus-Navigator/" target="_blank">
+        <a href="https://baadaldev.github.io/diu-campus-navigator/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
         </a>
         &nbsp;
-        <a href="https://github.com/baadaldev/Diu-Campus-Navigator" target="_blank">
+        <a href="https://github.com/baadaldev/diu-campus-navigator" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-111111?style=for-the-badge&logo=github&logoColor=EF4444" alt="Source Code" />
         </a>
       </p>
@@ -215,7 +215,7 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
     <img src="https://img.shields.io/badge/HackerRank-badolrakib1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank Profile" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/baadaldev/NeetCode-150-C-Cpp" target="_blank">
+  <a href="https://github.com/baadaldev/neetcode-150-cpp" target="_blank">
     <img src="https://img.shields.io/badge/NeetCode_150-C_%26_C++_Solutions-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0a0a0a" alt="NeetCode 150 Archive" />
   </a>
   &nbsp;&nbsp;
