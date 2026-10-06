@@ -23,6 +23,10 @@
     <img src="https://img.shields.io/badge/LeetCode-Profile-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
   </a>
   &nbsp;
+  <a href="https://www.hackerrank.com/profile/badolrakib1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-DC2626?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank" />
+  </a>
+  &nbsp;
   <a href="mailto:badolrakib1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
@@ -196,11 +200,19 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
   <a href="https://leetcode.com/u/Baadal89131/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Baadal89131?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 460px;" alt="LeetCode Live Stats Card" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/badolrakib1" target="_blank">
+    <img src="https://hackerrank-stats.vercel.app/api?username=badolrakib1" width="100%" style="max-width: 320px;" alt="HackerRank Live Stats Card" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/Baadal89131/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Baadal89131-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/badolrakib1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-badolrakib1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank Profile" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/baadaldev/NeetCode-150-C-Cpp" target="_blank">
@@ -261,6 +273,10 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
   &nbsp;
   <a href="https://leetcode.com/u/Baadal89131/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/badolrakib1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Solve-DC2626?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank" />
   </a>
   &nbsp;
   <a href="mailto:badolrakib1@gmail.com">
