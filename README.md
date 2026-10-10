@@ -6,7 +6,7 @@
   <a href="https://github.com/baadaldev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi%20there!%20I'm%20Md%20Rakibul%20Islam%20(Baadal)%20%F0%9F%91%8B;%F0%9F%92%BB%20CSE%20Student%20at%20DIU%20%F0%9F%8E%93;%F0%9F%9A%80%20Aspiring%20Full%20Stack%20Developer%20%26%20AI%2FML%20Engineer;%F0%9F%93%9A%20Learning%20DSA%20%26%20Web%20Development;%E2%9A%A1%20Joined%20GitHub%3A%20November%2017%2C%202022" width="100%" style="max-width: 650px;" alt="Typing SVG" />
   </a>
-  [![GitScore](https://www.gitscore.live/api/badge/baadaldev)](https://www.gitscore.live/baadaldev)
+
 </p>
 
 <p align="center">
