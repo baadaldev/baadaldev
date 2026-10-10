@@ -4,24 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/baadaldev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi%20there!%20I'm%20Md%20Rakibul%20Islam%20(Baadal)%20%F0%9F%91%8B;%F0%9F%92%BB%20CSE%20Student%20at%20DIU%20%F0%9F%8E%93;%F0%9F%9A%80%20Aspiring%20Full%20Stack%20Developer%20%26%20AI%2FML%20Engineer;%F0%9F%93%9A%20Learning%20DSA%20%26%20Web%20Development;%F0%9F%94%A5%20133%2C000%2B%20Profile%20Views%20%26%20Counting!;%E2%9A%A1%20Joined%20GitHub%3A%20November%2017%2C%202022" width="100%" style="max-width: 650px;" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- =================================================== -->
-<!--         REAL-TIME TRAFFIC & VISITOR SPOTLIGHT       -->
-<!-- =================================================== -->
-<p align="center">
-  <a href="https://github.com/baadaldev">
-    <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20REAL--TIME-LIVE%20MONITOR-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Live Monitor" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/baadaldev">
-    <img src="https://profileviews.blueorbitdevs.workers.dev/?username=baadaldev&label=%E2%9A%A1+TOTAL+PROFILE+VIEWS&style=for-the-badge&color=dc2626&base=133000" alt="Total Profile Views" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/baadaldev">
-    <img src="https://img.shields.io/badge/%F0%9F%94%A5%20MILESTONE-133K%2B%20REACHED-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="Milestone 133K+" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi%20there!%20I'm%20Md%20Rakibul%20Islam%20(Baadal)%20%F0%9F%91%8B;%F0%9F%92%BB%20CSE%20Student%20at%20DIU%20%F0%9F%8E%93;%F0%9F%9A%80%20Aspiring%20Full%20Stack%20Developer%20%26%20AI%2FML%20Engineer;%F0%9F%93%9A%20Learning%20DSA%20%26%20Web%20Development;%E2%9A%A1%20Joined%20GitHub%3A%20November%2017%2C%202022" width="100%" style="max-width: 650px;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,10 +20,6 @@
   <a href="https://www.linkedin.com/in/md-rakibul-islam-a2b136408" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="mailto:badolrakib1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
 </p>
 
 <p align="center">
@@ -52,8 +31,12 @@
     <img src="https://img.shields.io/badge/HackerRank-Profile-DC2626?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank" />
   </a>
   &nbsp;
-  <a href="https://monkeytype.com" target="_blank">
-    <img src="https://img.shields.io/badge/Typing%20Speed-57%20WPM-DC2626?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=0a0a0a" alt="Typing Speed: 57 WPM" />
+  <a href="mailto:badolrakib1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/baadaldev">
+    <img src="https://profileviews.blueorbitdevs.workers.dev/?username=baadaldev&label=PROFILE+VIEWS&style=for-the-badge&color=dc2626&base=133000" alt="Profile Views" />
   </a>
 </p>
 
@@ -272,6 +255,10 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
   &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/badolrakib1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-badolrakib1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://monkeytype.com" target="_blank">
+    <img src="https://img.shields.io/badge/Monkeytype-57%20WPM-E2B714?style=for-the-badge&logo=monkeytype&logoColor=black&labelColor=323437" alt="Monkeytype: 57 WPM (99% Accuracy)" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/baadaldev/neetcode-150-cpp" target="_blank">
