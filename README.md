@@ -34,7 +34,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/baadaldev">
-    <img src="https://views.igorkowalczyk.dev/api/badge/baadaldev?label=PROFILE+VIEWS&color=dc2626&labelColor=0a0a0a" height="28" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=baadaldev&label=PROFILE+VIEWS&style=for-the-badge&color=dc2626&base=16414" alt="Profile Views" />
   </a>
 </p>
 
