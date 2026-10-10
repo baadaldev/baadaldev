@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Joined%20GitHub-Nov%2017%2C%202022-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Joined GitHub: November 17, 2022" />
+  <a href="https://github.com/baadaldev">
+    <img src="https://img.shields.io/badge/Joined%20GitHub-Nov%2017%2C%202022-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Joined GitHub: November 17, 2022" />
+  </a>
   &nbsp;
   <a href="https://baadaldev.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-baadaldev.github.io-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Live Portfolio" />
@@ -31,7 +33,9 @@
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=baadaldev&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/baadaldev">
+    <img src="https://komarev.com/ghpvc/?username=baadaldev&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
 
 <br />
