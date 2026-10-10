@@ -50,7 +50,33 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
 - 📅 **GitHub Member:** Building and contributing since **November 17, 2022**
 - 💻 **Core Specialties:** Full Stack Web Development, C++20, Data Structures & Algorithms, Systems Architecture
 - 🎯 **Career Objective:** Seeking **Software Engineering & Web Development Internships** to build impactful, production-grade systems
+- 🏛️ **Affiliation & Labs:** Member of [@Gynonada](https://github.com/Gynonada)
+- 🏅 **Recognition:** GitHub **Developer Program Member** & GitHub **PRO** Student Developer
 - 💬 **Ask Me About:** C++, JavaScript / TypeScript, React, Next.js, Algorithm Optimization & Clean Code
+
+<br />
+
+<!-- =================================================== -->
+<!--            VERIFIED BADGES & ACHIEVEMENTS           -->
+<!-- =================================================== -->
+
+## 🏆 GitHub Highlights & Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Highlight-PRO_Developer-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub PRO" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Developer_Program-Member-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Developer Program Member" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Galaxy_Brain-Gold_x4-EAB308?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Galaxy Brain x4" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pair_Extraordinaire-Bronze_x2-CD7F32?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Pair Extraordinaire x2" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pull_Shark-Bronze_x2-CD7F32?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Pull Shark x2" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Starstruck-16%2B_Stars-EAB308?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Starstruck" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/YOLO_%26_Quickdraw-Unlocked-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="YOLO and Quickdraw" />
+</p>
 
 <br />
 
