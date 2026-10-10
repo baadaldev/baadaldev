@@ -34,7 +34,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/baadaldev">
-    <img src="https://komarev.com/ghpvc/?username=baadaldev&label=PROFILE+VIEWS&style=for-the-badge&color=dc2626&base=16414" alt="Profile Views" />
+    <img src="https://profileviews.blueorbitdevs.workers.dev/?username=baadaldev&label=PROFILE+VIEWS&style=for-the-badge&color=dc2626&base=18000" alt="Profile Views" />
   </a>
 </p>
 
