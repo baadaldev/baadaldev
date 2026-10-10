@@ -30,8 +30,6 @@
   <a href="mailto:badolrakib1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=baadaldev&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <br />
@@ -53,30 +51,6 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
 - 🏛️ **Affiliation & Labs:** Member of [@Gynonada](https://github.com/Gynonada)
 - 🏅 **Recognition:** GitHub **Developer Program Member** & GitHub **PRO** Student Developer
 - 💬 **Ask Me About:** C++, JavaScript / TypeScript, React, Next.js, Algorithm Optimization & Clean Code
-
-<br />
-
-<!-- =================================================== -->
-<!--            VERIFIED BADGES & ACHIEVEMENTS           -->
-<!-- =================================================== -->
-
-## 🏆 GitHub Highlights & Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Highlight-PRO_Developer-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub PRO" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Developer_Program-Member-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Developer Program Member" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Galaxy_Brain-Gold_x4-EAB308?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Galaxy Brain x4" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pair_Extraordinaire-Bronze_x2-CD7F32?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Pair Extraordinaire x2" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pull_Shark-Bronze_x2-CD7F32?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Pull Shark x2" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Starstruck-16%2B_Stars-EAB308?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Starstruck" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/YOLO_%26_Quickdraw-Unlocked-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="YOLO and Quickdraw" />
-</p>
 
 <br />
 
@@ -224,11 +198,7 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
 
 <p align="center">
   <a href="https://leetcode.com/u/Baadal89131/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Baadal89131?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 460px;" alt="LeetCode Live Stats Card" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/badolrakib1" target="_blank">
-    <img src="https://hackerrank-stats.vercel.app/api?username=badolrakib1" width="100%" style="max-width: 320px;" alt="HackerRank Live Stats Card" />
+    <img src="https://leetcard.jacoblin.cool/Baadal89131?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 500px;" alt="LeetCode Live Stats Card" />
   </a>
 </p>
 
@@ -274,6 +244,16 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</p>
+
+<br />
+
+<!-- =================================================== -->
+<!--                DAILY INSPIRATION                    -->
+<!-- =================================================== -->
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Developer Quote" />
 </p>
 
 <br />
