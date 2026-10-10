@@ -55,6 +55,44 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
 <br />
 
 <!-- =================================================== -->
+<!--             ACHIEVEMENTS & HIGHLIGHTS               -->
+<!-- =================================================== -->
+
+## 🏆 Official GitHub Achievements & Badges
+
+<p align="center">
+  <a href="https://github.com/baadaldev?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/galaxy-brain-gold-9c2c03fd1acf.png" width="90px" alt="Galaxy Brain Gold x4" title="Galaxy Brain Gold x4" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/baadaldev?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-bronze-797214f41e7e.png" width="90px" alt="Pair Extraordinaire Bronze x2" title="Pair Extraordinaire Bronze x2" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/baadaldev?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="90px" alt="Pull Shark Bronze x2" title="Pull Shark Bronze x2" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/baadaldev?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="90px" alt="Starstruck" title="Starstruck" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/baadaldev?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90px" alt="YOLO" title="YOLO" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/baadaldev?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90px" alt="Quickdraw" title="Quickdraw" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Highlights-PRO_Developer_%E2%80%A2_Developer_Program_Member-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Highlights" />
+</p>
+
+<br />
+
+<!-- =================================================== -->
 <!--                 FEATURED PROJECTS                   -->
 <!-- =================================================== -->
 
@@ -244,6 +282,10 @@ I am a passionate **Computer Science & Engineering student** at **Daffodil Inter
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="assets/commit-animation.svg" width="100%" alt="Live Git Terminal &amp; Commit Activity" />
 </p>
 
 <br />
